@@ -1,4 +1,5 @@
 Belajar Git
+Test Git Conflict
 Indonesia Merdeka tahun 1945
 Ir. Soekarno adalah proklamatornya
 Bendera Indonesia adalah merah putih
